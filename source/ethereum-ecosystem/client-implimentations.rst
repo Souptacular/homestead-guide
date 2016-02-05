@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *************************
 Client Implimentations
 *************************
@@ -16,3 +17,8 @@ Python                   `Pyethereum <https://github.com/ethereum/pyethereum>`_
 Java                     `ethereumJ <https://github.com/ethereum/ethereumj>`_
 Haskell                  `ethereumH <https://github.com/blockapps/strato-p2p-client>`_
 ===============         ===============
+=======
+*****
+Client Implementations
+*****
+>>>>>>> origin/master
