@@ -1,9 +1,9 @@
-*****
+******************************
 Connecting to the Network
-*****
+******************************
 
 How to Connect
-=============
+===============
 Geth continuously attempts to connect to other nodes on the network
 until it has peers. If you have UPnP enabled on your router or run
 ethereum on an Internet-facing server, it will also accept connections
