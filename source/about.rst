@@ -3,7 +3,7 @@ The homestead documentation initiative
 ***************************************
 
 
-Purpose and audience
+Purpose and Audience
 =============================
 
 This guide should serve to be an entry level for all Ethereum users and developers.
